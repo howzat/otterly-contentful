@@ -1,0 +1,11 @@
+{
+  "source": "./src",
+  "destination": "./build",
+  "metadata": {
+    "title": "Otterly Contentful Example",
+    "description": "I sure hope this works"
+  },
+  "plugins": {
+
+  }
+}
